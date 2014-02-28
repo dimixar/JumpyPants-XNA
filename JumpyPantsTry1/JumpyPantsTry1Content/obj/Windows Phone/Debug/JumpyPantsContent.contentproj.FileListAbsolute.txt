@@ -1,0 +1,2 @@
+C:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1Content\obj\Windows Phone\Debug\JumpyPantsContent.contentprojResolveAssemblyReference.cache
+H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1Content\obj\Windows Phone\Debug\JumpyPantsContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2012-05-07T05:15:09.5490268-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\gameFont.xnb</Output>
+      <Time>2012-05-24T02:07:27.2397821-07:00</Time>
+    </Item>
+    <Item>
+      <Source>FpsFont.spritefont</Source>
+      <Name>FpsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\FpsFont.xnb</Output>
+      <Time>2012-05-08T14:39:45.5657077-07:00</Time>
+    </Item>
+    <Item>
+      <Source>notificationFont.spritefont</Source>
+      <Name>notificationFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\notificationFont.xnb</Output>
+      <Time>2012-05-24T01:51:24.8487364-07:00</Time>
+    </Item>
+    <Item>
+      <Source>slowdownNotify.spritefont</Source>
+      <Name>slowdownNotify</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\slowdownNotify.xnb</Output>
+      <Time>2012-05-24T02:57:12.4365255-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverFont.spritefont</Source>
+      <Name>GameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\GameOverFont.xnb</Output>
+      <Time>2012-05-24T04:49:52.9312037-07:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\blank.xnb</Output>
+      <Time>2012-05-05T14:22:45.4015509-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundImages\Dealuri_Background.png</Source>
+      <Name>BackgroundImages\Dealuri_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\BackgroundImages\Dealuri_Background.xnb</Output>
+      <Time>2012-05-05T15:00:17.4993635-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundImages\Ground_Background.png</Source>
+      <Name>BackgroundImages\Ground_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\BackgroundImages\Ground_Background.xnb</Output>
+      <Time>2012-05-05T15:00:17.5023637-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundImages\Sky_Background.png</Source>
+      <Name>BackgroundImages\Sky_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\BackgroundImages\Sky_Background.xnb</Output>
+      <Time>2012-05-05T15:00:17.507364-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trans.png</Source>
+      <Name>trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\trans.xnb</Output>
+      <Time>2012-05-06T05:26:02.1232907-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BgElements\SunAnimation_Background.png</Source>
+      <Name>BgElements\SunAnimation_Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\BgElements\SunAnimation_Background.xnb</Output>
+      <Time>2012-05-29T10:27:31.4708186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImages\Control Scheme.png</Source>
+      <Name>MenuImages\ControlScheme</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\MenuImages\ControlScheme.xnb</Output>
+      <Time>2012-05-06T11:10:05.5420267-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImages\Player_Awesome_Animation.png</Source>
+      <Name>MenuImages\Player_Awesome_Animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\MenuImages\Player_Awesome_Animation.xnb</Output>
+      <Time>2012-05-06T11:10:12.0323979-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player_Animation_Full.png</Source>
+      <Name>Player_Animation_Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Player_Animation_Full.xnb</Output>
+      <Time>2012-05-06T11:30:48.3741126-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BgElements\Cloud_Background1.png</Source>
+      <Name>BgElements\Cloud_Background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\BgElements\Cloud_Background1.xnb</Output>
+      <Time>2012-05-06T13:33:16.2703883-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImages\JumpyPants.png</Source>
+      <Name>MenuImages\JumpyPants</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\MenuImages\JumpyPants.xnb</Output>
+      <Time>2012-05-07T06:25:00.1197137-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies_Animation_Full.png</Source>
+      <Name>Enemies_Animation_Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Enemies_Animation_Full.xnb</Output>
+      <Time>2012-05-08T03:47:18.3472345-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuImages\LoadingAnimation.png</Source>
+      <Name>MenuImages\LoadingAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\MenuImages\LoadingAnimation.xnb</Output>
+      <Time>2012-05-08T04:14:45.6434545-07:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundImages\ground.png</Source>
+      <Name>BackgroundImages\ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\BackgroundImages\ground.xnb</Output>
+      <Time>2012-05-08T08:13:14.8285849-07:00</Time>
+    </Item>
+    <Item>
+      <Source>buf_Animation.png</Source>
+      <Name>buf_Animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\buf_Animation.xnb</Output>
+      <Time>2012-05-12T13:02:54.3332397-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUps\powerUps.png</Source>
+      <Name>PowerUps\powerUps</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\PowerUps\powerUps.xnb</Output>
+      <Time>2012-05-16T08:13:05.6430492-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Health_Bar_Full.png</Source>
+      <Name>Health_Bar_Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Health_Bar_Full.xnb</Output>
+      <Time>2012-05-16T11:56:33.6419429-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUps\Slow_Down.png</Source>
+      <Name>PowerUps\Slow_Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\PowerUps\Slow_Down.xnb</Output>
+      <Time>2012-05-23T05:54:45.623794-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverScreen.png</Source>
+      <Name>GameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\GameOverScreen.xnb</Output>
+      <Time>2012-05-24T04:27:23.8280394-07:00</Time>
+    </Item>
+    <Item>
+      <Source>surprise_Anim.png</Source>
+      <Name>surprise_Anim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\surprise_Anim.xnb</Output>
+      <Time>2012-05-28T13:16:43.5103161-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\MainMenuSong.mp3</Source>
+      <Name>Music\MainMenuSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\MainMenuSong.xnb</Output>
+      <Extra>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\MainMenuSong.wma</Extra>
+      <Time>2012-05-06T07:41:18.6515296-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\GameOverMusic.mp3</Source>
+      <Name>Music\GameOverMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\GameOverMusic.xnb</Output>
+      <Extra>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\GameOverMusic.wma</Extra>
+      <Time>2012-05-06T08:22:08.9616793-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\ChilloutMode\Flip the Flop (lollipop).wav</Source>
+      <Name>Music\ChilloutMode\Track1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track1.xnb</Output>
+      <Extra>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track1.wma</Extra>
+      <Time>2012-05-08T04:23:31.5015318-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\RunningSound.wav</Source>
+      <Name>SoundEffects\RunningSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\RunningSound.xnb</Output>
+      <Time>2012-05-12T13:15:24.7391605-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\SlidingSound.wav</Source>
+      <Name>SoundEffects\SlidingSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\SlidingSound.xnb</Output>
+      <Time>2012-05-12T13:31:19.0977467-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\slowdownSound.wav</Source>
+      <Name>SoundEffects\slowdownSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\slowdownSound.xnb</Output>
+      <Time>2012-05-12T13:15:41.6691288-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\WindSound.wav</Source>
+      <Name>SoundEffects\WindSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\WindSound.xnb</Output>
+      <Time>2012-05-12T13:35:40.4456949-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\JumpingSound.wav</Source>
+      <Name>SoundEffects\JumpingSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\JumpingSound.xnb</Output>
+      <Time>2012-05-13T01:21:15.6265368-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\HealthGainSound.wav</Source>
+      <Name>SoundEffects\HealthGainSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\HealthGainSound.xnb</Output>
+      <Time>2012-05-12T13:15:59.4171439-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\GameOverSound.wav</Source>
+      <Name>SoundEffects\GameOverSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\GameOverSound.xnb</Output>
+      <Time>2012-05-12T13:38:15.1975462-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\buf.wav</Source>
+      <Name>SoundEffects\buf</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\SoundEffects\buf.xnb</Output>
+      <Time>2012-05-15T12:33:57.9498944-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\ChilloutMode\Noooooooooo!!!.wav</Source>
+      <Name>Music\ChilloutMode\Track2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track2.xnb</Output>
+      <Extra>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track2.wma</Extra>
+      <Time>2012-05-28T10:43:12.0614513-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\ChilloutMode\-Fireflies- (viewtifulday RMX).wav</Source>
+      <Name>Music\ChilloutMode\Track3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track3.xnb</Output>
+      <Extra>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track3.wma</Extra>
+      <Time>2012-05-28T11:06:04.6879611-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\ChilloutMode\Crash dummy.wav</Source>
+      <Name>Music\ChilloutMode\Track4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track4.xnb</Output>
+      <Extra>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\Music\ChilloutMode\Track4.wma</Extra>
+      <Time>2012-05-28T14:57:45.1710232-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{33314A1F-2150-4876-8D72-F1A4891CAEF7}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1Content\</RootDirectory>
+      <LoggerRootDirectory>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Users\DrDrimix\Documents\Visual Studio 2010\Projects\JumpyPantsTry1\JumpyPantsTry1\JumpyPantsTry1\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-02T12:37:02.7288968-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
