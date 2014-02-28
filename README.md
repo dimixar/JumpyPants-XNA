@@ -1,6 +1,6 @@
 JumpyPants-XNA
 ==============
-It is written using C# and XNA framework on Visual Studio 2010.
+It was written using C# and XNA framework on Visual Studio 2010.
 
 Source code for a game I made.
 
